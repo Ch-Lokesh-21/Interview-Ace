@@ -4,7 +4,10 @@
 *InterviewAce* is a full-stack MERN web application designed to help job seekers ace their interviews with personalized, AI-powered question and answer generation. This app makes interview preparation seamless by offering tailored sessions, dynamic explanations, and a user-friendly interface.
 ---
 
-![InterviewAce Logo](https://github.com/Ch-Lokesh-21/Interview-Ace/blob/5ea6f00db1fe090531fc5ad61bd32c0b9e4d4e57/home_page.png) <!-- Replace with your logo or banner -->
+![InterviewAce Logo](https://github.com/Ch-Lokesh-21/Interview-Ace/blob/5ea6f00db1fe090531fc5ad61bd32c0b9e4d4e57/home_page.png)
+---
+
+![img](https://github.com/Ch-Lokesh-21/Interview-Ace/blob/47bf2f62a6dbd90ad290d5f656613b55676e821e/frontend/public/hero.png)
 
 ## *Features*
 1. *User Authentication*  
@@ -56,30 +59,35 @@
 ## *Installation and Setup*
 
 ### *1. Clone the Repository*
-bash
+```bash
 git clone https://github.com/Ch-Lokesh-21/Interview-Ace.git
 cd Interview-Ace
+```
 
 
 ### **2. Backend
-bash
+```bash
 cd backend
 npm install
+```
 
 ### **3. Frontend
-bash
+```bash
 cd frontend
 npm install
+```
 
 ### **4. Set Up Environment Variables
-Create a .env file in the backend directory and setup the variables
+Create a `.env` file in the `backend` directory and setup the variables
 
 ### **5. 4. Run the Application
 
-bash
+```bash
 cd frontend
 npm run dev
+```
 
-bash
+```bash
 cd backend
 npm run dev
+```
